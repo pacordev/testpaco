@@ -1,3 +1,4 @@
+# con este codigo, creamos una pequenia pantalla para hacer la busqueda de lbros
 import tkinter as tk
 from tkinter import messagebox
 from llamado_api import OpenLibraryClient
