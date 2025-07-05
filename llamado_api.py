@@ -1,3 +1,4 @@
+# este codigo es la clase para conectar a la api de busqueda de libros
 import requests
 
 class OpenLibraryClient:
